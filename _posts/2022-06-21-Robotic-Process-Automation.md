@@ -1,6 +1,6 @@
 ---
-Title: "Robotic Process Automation"
-Date: 2022-06-21
+title: "Robotic Process Automation"
+date: 2022-06-21
 ---
 ## What is RPA ?
 
